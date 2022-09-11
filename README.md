@@ -60,11 +60,13 @@ python Evaluate.py --dataset_type ped2 --model_dir your_model.pth --m_items_dir 
 
 ## Bibtex
 ```
-@inproceedings{park2020learning,
-  title={Learning Memory-guided Normality for Anomaly Detection},
-  author={Park, Hyunjong and Noh, Jongyoun and Ham, Bumsub},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  pages={14372--14381},
-  year={2020}
+@inproceedings{
+menon2021re,
+title={Re Learning Memory Guided Normality for Anomaly Detection},
+author={Varun Menon and Kevin Stephen},
+booktitle={ML Reproducibility Challenge 2020},
+year={2021},
+url={https://openreview.net/forum?id=vvLWTXkJ2Zv}
 }
+
 ```
